@@ -7,4 +7,6 @@ To recreate our experiment,
 2) Configure and Patch OAI source code for the puropose of CTC.
 3) Connect Smartphone to the OAI SDR LTE base station.
    Note that in order to connect to the OAI base station, a programmable SIM card is need. 
-4) Run andorid program. 
+4) Run andorid program in LTEBee folder. 
+
+The system is tested with Nexus 5X. LTE2B should work with other android smartphone.
