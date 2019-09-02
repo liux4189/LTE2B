@@ -10,3 +10,5 @@ To recreate our experiment,
 4) Run andorid program in LTEBee folder. 
 
 The system is tested with Nexus 5X. LTE2B should work with other android smartphone.
+
+Find the demo video  at https://youtu.be/DomGy6Az8ew
